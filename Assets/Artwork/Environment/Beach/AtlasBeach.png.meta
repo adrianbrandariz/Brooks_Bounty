@@ -1,0 +1,1932 @@
+fileFormatVersion: 2
+guid: 10d8e25b0547f0a4c8a0691c46bea17d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 698297744551018437
+    second: SandCorner0
+  - first:
+      213: -5541115956766733509
+    second: SandCorner1
+  - first:
+      213: 2376606684475302528
+    second: SandMiddle0
+  - first:
+      213: 4133544972850867908
+    second: SandMiddle1
+  - first:
+      213: 3973030922969467662
+    second: SandMiddle2
+  - first:
+      213: -3914808082110286997
+    second: SandMiddle3
+  - first:
+      213: -7195433309701409437
+    second: Grass0
+  - first:
+      213: 8586466725723094615
+    second: Grass1
+  - first:
+      213: 6592165289630862809
+    second: Grass2
+  - first:
+      213: -2234308760512308067
+    second: Sea0
+  - first:
+      213: 7887404625240095968
+    second: Sea1
+  - first:
+      213: 4860969923016647001
+    second: Sea2
+  - first:
+      213: 5348589026338728148
+    second: Sea3
+  - first:
+      213: 2541664739634368954
+    second: Flowers0
+  - first:
+      213: -4544472393755885261
+    second: Flowers1
+  - first:
+      213: 3670966494689703310
+    second: BeachTree0_2
+  - first:
+      213: 6758105369074656250
+    second: BeachTree0_1
+  - first:
+      213: 2638121112060772015
+    second: BeachTree0_0
+  - first:
+      213: -220603285442545937
+    second: BeachTree0_3
+  - first:
+      213: -5752956079281645429
+    second: BeachTree0_6
+  - first:
+      213: 1979740872622623048
+    second: BeachTree0_9
+  - first:
+      213: 6049101727019147350
+    second: BeachTree0_4
+  - first:
+      213: 1084046088925544877
+    second: BeachTree0_5
+  - first:
+      213: 900658039059060225
+    second: BeachTree0_7
+  - first:
+      213: -5407141700452639540
+    second: BeachTree0_8
+  - first:
+      213: -3404066306708510913
+    second: BeachTree0_10
+  - first:
+      213: -5472495499402935094
+    second: BeachTree0_11
+  - first:
+      213: -9090220866503479741
+    second: BeachTree1_1
+  - first:
+      213: 3774247185753383206
+    second: BeachTree1_0
+  - first:
+      213: 1132397134799867533
+    second: BeachTree1_3
+  - first:
+      213: 3409556744821290178
+    second: BeachTree1_2
+  - first:
+      213: -6379382633486732255
+    second: BeachTree1_4
+  - first:
+      213: 7520184907575039772
+    second: BeachTree1_5
+  - first:
+      213: -6692614490964617070
+    second: BeachTree2_1
+  - first:
+      213: -2691303725090258826
+    second: BeachTree2_0
+  - first:
+      213: -9086994941474525000
+    second: BeachTree2_2
+  - first:
+      213: 2191274500391187309
+    second: BeachTree2_4
+  - first:
+      213: -6015316002580069045
+    second: BeachTree2_3
+  - first:
+      213: -5653925128795055849
+    second: BeachTree2_5
+  - first:
+      213: 5210762278935553572
+    second: Rock0_0
+  - first:
+      213: 8434228480770637516
+    second: Rock0_2
+  - first:
+      213: 1708539257702640703
+    second: Rock0_3
+  - first:
+      213: -8143808554781014130
+    second: Cloud0_1
+  - first:
+      213: -8783613650775662774
+    second: Cloud1_4
+  - first:
+      213: 2999086556199466879
+    second: Cloud1_5
+  - first:
+      213: -7088588769205487024
+    second: Cloud1_0
+  - first:
+      213: -3522744690256918808
+    second: Cloud1_1
+  - first:
+      213: -2204713562044545238
+    second: Cloud1_2
+  - first:
+      213: 4985529763965556602
+    second: Cloud2_3
+  - first:
+      213: -31256362329698483
+    second: Cloud2_2
+  - first:
+      213: 8202786379739322307
+    second: Cloud2_1
+  - first:
+      213: -8105941135878852142
+    second: Cloud2_0
+  - first:
+      213: -2284079283231681368
+    second: Island0_0
+  - first:
+      213: -249748901733629618
+    second: Island0_1
+  - first:
+      213: 6228325075954910140
+    second: Island1_1
+  - first:
+      213: -2717561543755010680
+    second: Boat0_1
+  - first:
+      213: -5945998786412554107
+    second: Boat0_2
+  - first:
+      213: -5041948817642184132
+    second: Boat0_3
+  - first:
+      213: 940779172242153363
+    second: Island1_1
+  - first:
+      213: -4157277144571408865
+    second: Island0_2
+  - first:
+      213: 3973028881913497790
+    second: Island0_3
+  - first:
+      213: -6775451235754265012
+    second: AtlasBeach_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SandCorner0
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 3675
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7b63591ad0b900800000000000000
+      internalID: 698297744551018437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandCorner1
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3384
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b8ba935600a13b0800000000000000
+      internalID: -5541115956766733509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandMiddle0
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 3095
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08228fe00376bf020800000000000000
+      internalID: 2376606684475302528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandMiddle1
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 2803
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea0e9904d4d5930800000000000000
+      internalID: 4133544972850867908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandMiddle2
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 2484
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bcc3d039a032730800000000000000
+      internalID: 3973030922969467662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandMiddle3
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 2188
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63fcf57acecba9c0800000000000000
+      internalID: -3914808082110286997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass0
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 1745
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365fb32278fa42c90800000000000000
+      internalID: -7195433309701409437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass1
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 1405
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ebf667ef1492770800000000000000
+      internalID: 8586466725723094615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass2
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 1032
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd8b1577631c7b50800000000000000
+      internalID: 6592165289630862809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sea0
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 3648
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cde1b25042ef0e0800000000000000
+      internalID: -2234308760512308067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sea1
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 3312
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec7537a7b0b57d60800000000000000
+      internalID: 7887404625240095968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sea2
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 2904
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951e345f362a57340800000000000000
+      internalID: 4860969923016647001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sea3
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 2422
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e874a1610a3a40800000000000000
+      internalID: 5348589026338728148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers0
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 2083
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1da084d9ec54320800000000000000
+      internalID: 2541664739634368954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowers1
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 1745
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3318c9e7f6acee0c0800000000000000
+      internalID: -4544472393755885261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 28
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85375ac394e1f230800000000000000
+      internalID: 3670966494689703310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_1
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 28
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3ea56f60d99cd50800000000000000
+      internalID: 6758105369074656250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_0
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 28
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae37de8c2d7c9420800000000000000
+      internalID: 2638121112060772015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_3
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6b9ee0b7240fcf0800000000000000
+      internalID: -220603285442545937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_6
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 540
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885ef52de46920b0800000000000000
+      internalID: -5752956079281645429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_9
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 796
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8494ef3a5d3797b10800000000000000
+      internalID: 1979740872622623048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_4
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650ad21a8f9b2f350800000000000000
+      internalID: 6049101727019147350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_5
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 284
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10f82ac2e4b0f00800000000000000
+      internalID: 1084046088925544877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 540
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1061732f6b7cf7c00800000000000000
+      internalID: 900658039059060225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_8
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 540
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc915e8549f5f4b0800000000000000
+      internalID: -5407141700452639540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_10
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 796
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3763c4cab352c0d0800000000000000
+      internalID: -3404066306708510913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree0_11
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 796
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac40a2b765acd04b0800000000000000
+      internalID: -5472495499402935094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree1_1
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6732b84c09d180800000000000000
+      internalID: -9090220866503479741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree1_0
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621295191d1d06430800000000000000
+      internalID: 3774247185753383206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree1_3
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e8a64c13517bf00800000000000000
+      internalID: 1132397134799867533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree1_2
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c43c987bcd215f20800000000000000
+      internalID: 3409556744821290178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree1_4
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1243ab45b41e777a0800000000000000
+      internalID: -6379382633486732255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree1_5
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17934d64501d5860800000000000000
+      internalID: 7520184907575039772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree2_1
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981c67549e0f13a0800000000000000
+      internalID: -6692614490964617070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree2_0
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6704f4b658196aad0800000000000000
+      internalID: -2691303725090258826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree2_2
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b3a5ee3284e180800000000000000
+      internalID: -9086994941474525000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree2_4
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6330395c88f86e10800000000000000
+      internalID: 2191274500391187309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree2_3
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450e7657fd458ca0800000000000000
+      internalID: -6015316002580069045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeachTree2_5
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71914871d093981b0800000000000000
+      internalID: -5653925128795055849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock0_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1509
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42665f45fa8505840800000000000000
+      internalID: 5210762278935553572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock0_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1509
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b87332a533ffdb20800000000000000
+      internalID: 3161512875117476024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock0_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1765
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef0d6ed166c0570800000000000000
+      internalID: 8434228480770637516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock0_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1765
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cec241763f5b710800000000000000
+      internalID: 1708539257702640703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud0_0
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 2177
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf533686c9727d0800000000000000
+      internalID: -2943211859308315471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud0_1
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 2177
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e878d7564416bfe80800000000000000
+      internalID: -8143808554781014130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2053
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b7295e46acadac0800000000000000
+      internalID: -3829525998428062876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2309
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4017068c9b456d530800000000000000
+      internalID: 3879381285933707524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2565
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6492052c7c5856b60800000000000000
+      internalID: 7738738627711084870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2565
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da1ed74098673e0800000000000000
+      internalID: -2056305527463236262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2309
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9707f29f5d881d520800000000000000
+      internalID: 2725109702125908089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2309
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9d2d6c1a5e00b10800000000000000
+      internalID: 1945807522012256682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2309
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73a8c6cd1bbb0bb0800000000000000
+      internalID: -4968672027309726850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2053
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8c08e529de9db0800000000000000
+      internalID: -4783146997390733511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2053
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b58180d874716f80800000000000000
+      internalID: -8115076991301876295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2053
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce10946d683254f0800000000000000
+      internalID: -841548137875104064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_4
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2053
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c7a09a0dc8d3dc0800000000000000
+      internalID: -3657612494537851876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud3_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2565
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a22e5d5b3af50d0800000000000000
+      internalID: -3431844389660251584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud1_3
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2687
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7473aaa0b609dab60800000000000000
+      internalID: 7759016522444060487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud1_4
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 2687
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f9e351ce55a1680800000000000000
+      internalID: -8783613650775662774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud1_5
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2687
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f773be04555ee9920800000000000000
+      internalID: 2999086556199466879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud1_0
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2431
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05afea4421640ad90800000000000000
+      internalID: -7088588769205487024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud1_1
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2431
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c7d65e52bc1fc0800000000000000
+      internalID: -3522744690256918808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud1_2
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2431
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2749d642b84761e0800000000000000
+      internalID: -2204713562044545238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud2_3
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 2689
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77dd46e7e8203540800000000000000
+      internalID: 4985529763965556602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud2_2
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 2689
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f0e5a0184f09ff0800000000000000
+      internalID: -31256362329698483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud2_1
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 2433
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c756cc80c626d170800000000000000
+      internalID: 8202786379739322307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud2_0
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 2433
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f6b9eb79e18f80800000000000000
+      internalID: -8105941135878852142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island0_0
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3555
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a495245ef15d40e0800000000000000
+      internalID: -2284079283231681368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island0_1
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3555
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e418f1572b6b88cf0800000000000000
+      internalID: -249748901733629618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island1_1
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 3829
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb343f158a47f6650800000000000000
+      internalID: 6228325075954910140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat0_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 652
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cfd9008c1ddbbe0800000000000000
+      internalID: -1459780047264154553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat0_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 652
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d68399c28494ad0800000000000000
+      internalID: -2717561543755010680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat0_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 908
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588d9f46b919b7da0800000000000000
+      internalID: -5945998786412554107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boat0_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 908
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32acb48346670ab0800000000000000
+      internalID: -5041948817642184132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island1_0
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 3573
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f54953ca15e0d00800000000000000
+      internalID: 940779172242153363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island0_2
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3811
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e88f496726e46c0800000000000000
+      internalID: -4157277144571408865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island0_3
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 3811
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb842d4d7b8032730800000000000000
+      internalID: 3973028881913497790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtlasBeach_77
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3555
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46b2ebbff2c8f1a0800000000000000
+      internalID: -6775451235754265012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

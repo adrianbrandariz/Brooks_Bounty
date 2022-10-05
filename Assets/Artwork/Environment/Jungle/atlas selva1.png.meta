@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 7b692fd1b803a174dbc3dc6fbb9bd566
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8384236082287688569
+    second: atlas selva1_0
+  - first:
+      213: -4633568116894142551
+    second: atlas selva1_1
+  - first:
+      213: -7592844303451198524
+    second: atlas selva1_2
+  - first:
+      213: -3267726842614730856
+    second: atlas selva1_3
+  - first:
+      213: -8358143966112592105
+    second: atlas selva1_4
+  - first:
+      213: -618436111239221098
+    second: atlas selva1_5
+  - first:
+      213: 9096399996116186065
+    second: atlas selva1_6
+  - first:
+      213: 3515822367384719352
+    second: atlas selva1_7
+  - first:
+      213: -5393186304479900314
+    second: atlas selva1_8
+  - first:
+      213: -663319217908136597
+    second: atlas selva1_9
+  - first:
+      213: 3836649417425338011
+    second: atlas selva1_10
+  - first:
+      213: 1325058025483840298
+    second: atlas selva1_11
+  - first:
+      213: -5443180575969646776
+    second: atlas selva1_12
+  - first:
+      213: -8683995796637590061
+    second: atlas selva1_13
+  - first:
+      213: 7922382957986287516
+    second: atlas selva1_14
+  - first:
+      213: 471848410932512963
+    second: atlas selva1_15
+  - first:
+      213: 6998629495950584376
+    second: atlas selva1_16
+  - first:
+      213: 2361854839630339927
+    second: atlas selva1_17
+  - first:
+      213: 4870596628496864288
+    second: atlas selva1_18
+  - first:
+      213: -1931404713135708502
+    second: atlas selva1_19
+  - first:
+      213: -2088974144281595347
+    second: atlas selva1_20
+  - first:
+      213: 708162686067336839
+    second: atlas selva1_21
+  - first:
+      213: -5047492770195381452
+    second: atlas selva1_22
+  - first:
+      213: 6866118181777756241
+    second: atlas selva1_23
+  - first:
+      213: 2916657504506158511
+    second: atlas selva1_24
+  - first:
+      213: 7738626920863203198
+    second: atlas selva1_25
+  - first:
+      213: -3633094990729395320
+    second: atlas selva1_26
+  - first:
+      213: -8078269997404144793
+    second: atlas selva1_27
+  - first:
+      213: -7901588267284530257
+    second: atlas selva1_28
+  - first:
+      213: -4801426310768129038
+    second: atlas selva1_29
+  - first:
+      213: 5246396053216404420
+    second: atlas selva1_30
+  - first:
+      213: 8250075672754158484
+    second: atlas selva1_31
+  - first:
+      213: -1898646749710080448
+    second: atlas selva1_32
+  - first:
+      213: 4403466966834995521
+    second: atlas selva1_33
+  - first:
+      213: -2007005966637402600
+    second: atlas selva1_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas selva1_0
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 1118
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b35c59b4aca5470800000000000000
+      internalID: 8384236082287688569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_1
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 1509
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afe2fde85242bfb0800000000000000
+      internalID: -4633568116894142551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_2
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 1858
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb61f9a55cc0a690800000000000000
+      internalID: -7592844303451198524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_3
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 2190
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fa0f2ffb3b6a2d0800000000000000
+      internalID: -3267726842614730856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_4
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 2543
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc84e9858e10c80800000000000000
+      internalID: -8358143966112592105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_5
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 675
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690ff4922afda67f0800000000000000
+      internalID: -618436111239221098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_6
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 675
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3be570a97ec3e70800000000000000
+      internalID: 9096399996116186065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_7
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 931
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc655c0d5bac030800000000000000
+      internalID: 3515822367384719352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_8
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 931
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d49f161ad8725b0800000000000000
+      internalID: -5393186304479900314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_9
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1187
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6545eb8faa6bc6f0800000000000000
+      internalID: -663319217908136597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_10
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1187
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eb85551548e3530800000000000000
+      internalID: 3836649417425338011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_11
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1443
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2baeb3f04d836210800000000000000
+      internalID: 1325058025483840298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_12
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1443
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e509fa10f574b0800000000000000
+      internalID: -5443180575969646776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_13
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1699
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd5e6e25df3c7780800000000000000
+      internalID: -8683995796637590061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_14
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1699
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f81616355f1fd60800000000000000
+      internalID: 7922382957986287516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_15
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8077931a75c8600800000000000000
+      internalID: 471848410932512963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_16
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2046
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aa4bc3270202160800000000000000
+      internalID: 6998629495950584376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_17
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2302
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f1437867ef6c020800000000000000
+      internalID: 2361854839630339927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_18
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2558
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02455cdf3d5d79340800000000000000
+      internalID: 4870596628496864288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_19
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1783
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e70c75a54235e0800000000000000
+      internalID: -1931404713135708502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_20
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2039
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22be1965197203e0800000000000000
+      internalID: -2088974144281595347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_21
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2295
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786ea320636e3d900800000000000000
+      internalID: 708162686067336839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_22
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2551
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433e62a7114b3f9b0800000000000000
+      internalID: -5047492770195381452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_23
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 3467
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150d6baab1a594f50800000000000000
+      internalID: 6866118181777756241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_24
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 3211
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad11971c8c0a7820800000000000000
+      internalID: 2916657504506158511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_25
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 2955
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f735bfe20256b60800000000000000
+      internalID: 7738626920863203198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_26
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 3477
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883c25ada57a49dc0800000000000000
+      internalID: -3633094990729395320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_27
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 3221
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bb705ec3834ef80800000000000000
+      internalID: -8078269997404144793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_28
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 2965
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab7c17d55be75290800000000000000
+      internalID: -7901588267284530257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_29
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 3751
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb837b9538ed5db0800000000000000
+      internalID: -4801426310768129038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_30
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 3751
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a9fee961fec840800000000000000
+      internalID: 5246396053216404420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_31
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 3751
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7a941d182e7270800000000000000
+      internalID: 8250075672754158484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2982
+        width: 1920
+        height: 1077
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046a49137d6a6a5e0800000000000000
+      internalID: -1898646749710080448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_33
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 729
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ed5230e14c1d30800000000000000
+      internalID: 4403466966834995521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas selva1_34
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 290
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816fc78f4bea524e0800000000000000
+      internalID: -2007005966637402600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
